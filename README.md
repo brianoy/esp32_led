@@ -24,7 +24,7 @@ https://sites.google.com/site/arduinochutiyan/esp32_%E5%9F%BA%E7%A4%8E/1-cp2102x
 進入arduino ide->上方`工具`->`開發板`->`開發板管理員`->搜尋`ESP32`->下載espressif提供的`ESP32`->版本選擇最新->`安裝`->等待下載完成
 
 ### 3.驅動
-我購買的是帶CP2102 UART的NodeMCU-32s，看自己購買的版本喔
+我購買的是帶CP2102 UART的NodeMCU-32s，視自己購買的轉換器下載對應的驅動
 |UART|驅動下載網址|
 |:-:|:-:|
 |CH340|https://www.wch.cn/downloads/ch341ser_exe.html|
